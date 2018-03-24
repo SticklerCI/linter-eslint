@@ -1,5 +1,5 @@
 # linter-eslint
 
-    docker run -t linter-eslint:test --rm \
+    docker run --rm -t linter-eslint:test \
       <repo-url> \
       <commit>
