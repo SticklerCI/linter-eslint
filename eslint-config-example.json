@@ -1,6 +1,0 @@
-{
-  "rules": {
-    "max-statements": [2, 5],
-    "curly": [2, "multi"]
-  }
-}
